@@ -1,0 +1,26 @@
+.navbar-custom {
+    
+    background-color: red !important;
+}
+
+
+.card{
+    display: inline-block;
+    border: 1px solid;
+    width: 300px; /* fixed width */
+    margin: 3%;
+}
+.card img{
+    width: 300px; /* fixed width */
+}
+
+.card-container{
+    margin: auto;
+    align-content: center;
+    justify-content: center;
+}
+
+#map {
+    height: 300px;   /* or any size you want */
+    width: 100%;
+}

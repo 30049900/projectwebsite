@@ -1,8 +1,12 @@
 .navbar-custom {
     
-    background-color: red !important;
+    background-color: #ff0000 !important;
 }
 .card{
     display: inline-block;
     border: 1px solid;
+}
+#map {
+    height: 300px;   /* or any size you want */
+    width: 100%;
 }
